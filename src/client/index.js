@@ -1,1 +1,2 @@
-alert("hello")
+
+import { handleSubmit } from './js/formHandler'
